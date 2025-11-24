@@ -71,7 +71,7 @@ function App() {
         <button onClick={showPrevious}>Previous</button>
         <button onClick={showNext}>Next</button>
       </div>
-      <footer className="footer">HARI PRIYA S 212223220029</footer>
+      <footer className="footer">HARI PRIYA 212223220029</footer>
     </div>
   );
 }
